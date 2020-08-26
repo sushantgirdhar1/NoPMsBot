@@ -49,10 +49,17 @@ TG_BOT_WORKERS = int(get_config("TG_BOT_WORKERS", "4"))
 START_OTHER_USERS_TEXT = get_config(
     "START_OTHER_USERS_TEXT",
     (
-        "Hi ☺️ ,My name is ☑️ Contact Sushant\n"
+        "█████████
+█▄█████▄█
+█▼▼▼▼▼
+█ Hi , I'm Sushant
+█▲▲▲▲▲
+█████████
+ ██   ██"
         "𝓣𝓱𝓪𝓷𝓴𝔂𝓸𝓾 𝓯𝓸𝓻 𝓽𝓮𝔁𝓽𝓲𝓷𝓰\n\n"
         "𝐓𝐡𝐢𝐬 𝐢𝐬 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐁𝐨𝐭 𝐟𝐨𝐫 @sushantgirdhar "
-        "𝘄𝗮𝗶𝘁 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗿𝗲𝗽𝗹𝘆.\n"
+        
+        "𝘄𝗮𝗶𝘁 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗿𝗲𝗽𝗹𝘆\n\n\n"        
         "𝗕𝗼𝘁 𝗠𝗮𝗱𝗲 𝗯𝘆 👉🏻 @ebruiser"
     )
 )
